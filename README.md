@@ -12,11 +12,11 @@ they can upload there Question globally and other student gives answer on it.
 
 ### Learnu Screen Shots
 
-![App UI](/learnu1.png)
-![App UI](/learnu2.png)
-![App UI](/learnu3.png)
-![App UI](/learnu4.png)
-![App UI](/learnu5.png)
-![App UI](/learnu6.png)
-![App UI](/learnu7.png)
-![App UI](/learnu8.png)
+![App UI](/learnu1.PNG)
+![App UI](/learnu2.PNG)
+![App UI](/learnu3.PNG)
+![App UI](/learnu4.PNG)
+![App UI](/learnu5.PNG)
+![App UI](/learnu6.PNG)
+![App UI](/learnu7.PNG)
+![App UI](/learnu8.PNG)
